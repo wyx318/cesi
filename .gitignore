@@ -1,0 +1,7 @@
+node_modules/
+*.idea/
+dist/
+.cache/
+/%APPDATA%/
+*.log/
+package-lock.json
